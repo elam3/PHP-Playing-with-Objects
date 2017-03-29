@@ -1,0 +1,13 @@
+http://php.net/manual/it/keyword.extends.php
+http://php.net/manual/en/language.oop5.static.php
+http://php.net/manual/en/language.oop5.magic.php
+http://www.killerphp.com/tutorials/php-objects-page-3/
+http://stackoverflow.com/questions/455910/what-is-the-function-construct-used-for
+http://stackoverflow.com/questions/1961907/how-to-call-super-in-php
+
+http://www.informit.com/articles/article.aspx?p=24607
+http://php.net/manual/en/language.oop5.basic.php
+http://php.net/manual/en/language.oop5.references.php
+
+https://github.com/elam3/sousou_webscraping/blob/master/resources/2015/ship112515
+
