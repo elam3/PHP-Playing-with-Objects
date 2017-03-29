@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.starter-template p, ul, li {
+    text-align: left;
+}
+.lead{max-width:600px;margin-left:auto;margin-right:auto;}
+.current{font-weight:bold;font-size:1.5rem;padding-top:0.5rem;}
+.lorem_ipsum,h3.error{padding:3rem; border: 1px solid #b5b5b5;}
+h3.error{background-color:white;color:black;}
